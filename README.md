@@ -4,5 +4,6 @@ Exemple de site statique avec GitHub Pages
 - Créer un fichier HTML
 - Utiliser GitHub Pages
 
-# URL d'hébergement
-url :
+## URL d'hébergement
+url GitHub  : https://chmcro0.github.io/uel106/
+url Hosting : https://gartani2.hosting.unilim.fr/
